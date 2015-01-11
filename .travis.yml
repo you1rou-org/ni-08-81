@@ -1,0 +1,6 @@
+language: ruby
+deploy:
+  provider: heroku
+  app: webdb-sample-system
+  api_key:
+    secure: k1JCMAqJYRso/naTIOzvQa89cEgsim4lwFmhpYt4ni8fZPvp2HDR6dIDIG9t7tL4QnUwPoxeMIrpUJeIbE2IVv6gad9Z3EwY01pvW/5xbRZNhhgG5v1gmiOvanTCeuNcwo5cfjpDY/xlI1vCXh0AGr2BxGONVepPh+eeY0J8Dcs=
